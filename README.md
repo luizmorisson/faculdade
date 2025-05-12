@@ -1,28 +1,39 @@
-<h1 align="center">Bem vindo, eu sou Luiz Morisson</h1>
+# Luiz Morisson
 
-<p align="center">
-Estudante no 1° semestre em ciencia da computação
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-- Sou corretor de seguros e auxiliar administrativo
-- Estudando: focado em Python e banco de dados.
-- Curiosidade:apaixonado por esportes em geral
-- 23 anos
+> Projetos acadêmicos e experiências da faculdade  
+> Bem-vindo ao meu repositório de estudos e criações durante o curso!
 
 ---
 
-### 🌐 Onde me encontrar
+## 🌐 Redes Sociais
 
-<p align="center">
-  <a href="https://github.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/luiz-filippe-neves-morisson/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@exemplo.com">
-    <
+- [GitHub](https://github.com/luizmorisson)
+- [LinkedIn](https://www.linkedin.com/in/luiz-filippe-neves-morisson/)
+
+---
+
+## 📁 Projetos
+
+### 🔹 [Calculadora em Python](https://github.com/luizmorisson/faculdade/tree/main/1°semestre/calculadora)
+Uma calculadora simples feita em Python com entrada de dados via terminal.
+
+### 🔹 [Conversor de Temperatura](https://github.com/luizmorisson/faculdade/tree/main/1°semestre/conversor)
+Script que converte entre Celsius e Fahrenheit com base em entrada do usuário.
+
+### 🔹 [Outros projetos](https://github.com/luizmorisson/faculdade/tree/main/1°semestre)
+Acesse o diretório completo para mais códigos e exercícios de aprendizagem.
+
+---
+
+## 🧠 Curiosidades sobre mim
+- 💼 Corretor de seguros e auxiliar administrativo.
+- ⚽ Apaixonado por esportes, principalmente o futebol.
+- 🚀 Tenho interesse em Inteligência Artificial e Ciência de Dados.
+- ✈️ Meu sonho é trabalhar remotamente e conhecer outros países.
+
+---
+
+&copy; 2025 Luiz Morisson. Todos os direitos reservados.
+
+
 
