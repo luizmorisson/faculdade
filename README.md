@@ -1,4 +1,4 @@
-# Luiz Morisson
+# Luiz Filippe Morisson
 
 > Projetos acadêmicos e experiências da faculdade  
 > Bem-vindo ao meu repositório de estudos e criações durante o curso!
